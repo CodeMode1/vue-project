@@ -1,6 +1,10 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
+// Questions:
+// What is Vite? Is it the template rendering engine?
+// How to use the Vue.js extension? What are the capabilities?
+// Find an open source project to contribute to which is actively maintained...two weeks ready?
 </script>
 
 <template>
