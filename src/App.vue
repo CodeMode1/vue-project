@@ -18,6 +18,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <!-- TheWelcome is encapsulated in Home view -->
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/contact">Contact</RouterLink>
       </nav>
     </div>
   </header>
