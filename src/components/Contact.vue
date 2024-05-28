@@ -5,4 +5,5 @@ console.log(rand)
 
 <template>
   <h1>Hello this is a contact component {{ rand }}</h1>
+  <RouterLink to="/">Home</RouterLink>
 </template>
