@@ -4,6 +4,6 @@ console.log(rand)
 </script>
 
 <template>
-  <h1>Hello this is a contact component {{ rand }}</h1>
+  <!-- <h1>Hello this is a contact component {{ rand }}</h1> -->
   <RouterLink to="/">Home</RouterLink>
 </template>
